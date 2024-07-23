@@ -1,2 +1,2 @@
-# brew-test
+# homebrew-test
 testing repo for brew formula for actflow
